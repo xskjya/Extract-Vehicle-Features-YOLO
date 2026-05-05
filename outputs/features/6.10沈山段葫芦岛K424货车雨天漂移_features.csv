@@ -1,3 +1,0 @@
-Frame,Time(s),Vehicle_ID,Vehicle_Type,Center_X(px),Center_Y(px),World_X(m),World_Y(m),Length(m),Width(m),Speed(km/h),Acceleration(m/s²),Front_Car_ID,Rear_Car_ID,Left_Front_Car_ID,Left_Rear_Car_ID,Right_Front_Car_ID,Right_Rear_Car_ID,Lane_ID
-131,5.24,6,truck,237.05199,132.97154,4.9788527,22.105112,5.400922,4.9731064,0,0.0,-1,-1,-1,-1,-1,-1,1
-137,5.48,6,truck,250.51027,152.24817,4.839784,26.23287,6.3246183,5.6235795,0,0.0,-1,-1,-1,-1,-1,-1,1
